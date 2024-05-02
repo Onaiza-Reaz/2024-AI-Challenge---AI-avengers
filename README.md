@@ -51,6 +51,13 @@ This project leverages the pre-trained DistilHubert model from Hugging Face for 
 ### Massively Multilingual Speech (MMS) Model:
 We also leverage this model from Facebook AI to generate therapy recommendations. It allows the system to convert tailored therapy text into natural-sounding audio. You can find more information about it here:[https://huggingface.co/facebook/mms-tts-eng]
 
+## Framework versions
+Transformers 4.40.1
+Pytorch 2.2.1+cu121
+Datasets 2.19.0
+Tokenizers 0.19.1
+T4 GPU
+"Note: This project requires a GPU runtime environment for optimal performance. Please ensure that you have access to a GPU-enabled runtime environment before running the code."
 
 ## License
 
