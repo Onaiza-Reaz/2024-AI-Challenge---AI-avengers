@@ -57,7 +57,7 @@ Pytorch 2.2.1+cu121
 Datasets 2.19.0
 Tokenizers 0.19.1
 T4 GPU
-"Note: This project requires a GPU runtime environment for optimal performance. Please ensure that you have access to a GPU-enabled runtime environment before running the code."
+## Note: This project requires a GPU runtime environment for optimal performance. Please ensure that you have access to a GPU-enabled runtime environment before running the code.
 
 ## License
 
