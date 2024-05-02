@@ -42,15 +42,14 @@ A user-friendly Gradio app interface allows users to interact with the system by
 
 
 ### Therapy Generation: 
-Integrate a Text-to-Speech model "Massively Multilingual Speech" to generate dynamic therapy recommendations tailored to the user's stuttering type .
-
+We have incorporated the Massively Multilingual Speech (MMS) Text-to-Speech model from Facebook AI as a foundation for generating audio of therapy recommendations tailored to the user's stuttering type. While the integration of this model with the stuttering classification system is currently under development, users can leverage both models independently. The classification system provides insights into stuttering patterns, and users can then explore relevant therapy resources (text-based) for personalized support.
 ## Project Dependencies
 
 ### DistilHubert Model:
 This project leverages the pre-trained DistilHubert model from Hugging Face for its foundation. You can find more information about DistilHubert here: DistilHubert model on Hugging Face:[https://huggingface.co/ntu-spml/distilhubert]
 
 ### Massively Multilingual Speech (MMS) Model:
-We also leverage this model from Facebook AI to generate dynamic therapy recommendations based on user input. It allows the system to convert tailored therapy text into natural-sounding audio, enhancing the user experience. You can find more information about it here:[https://huggingface.co/facebook/mms-tts-eng]
+We also leverage this model from Facebook AI to generate therapy recommendations. It allows the system to convert tailored therapy text into natural-sounding audio. You can find more information about it here:[https://huggingface.co/facebook/mms-tts-eng]
 
 
 ## License
