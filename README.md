@@ -41,7 +41,7 @@ The trained model is deployed on the Hugging Face platform, ensuring accessibili
 A user-friendly Gradio app interface allows users to interact with the system by uploading audio samples for stuttering classification. You can access the interface from here: [https://huggingface.co/spaces/arisha123/HareemFatima-distilhubert-finetuned-stutterdetection]
 
 
-### Therapy Generation (Optional): 
+### Therapy Generation: 
 Integrate a Text-to-Speech model "Massively Multilingual Speech" to generate dynamic therapy recommendations tailored to the user's stuttering type .
 
 ## Project Dependencies
