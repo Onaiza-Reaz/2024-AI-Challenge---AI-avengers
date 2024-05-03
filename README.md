@@ -51,6 +51,18 @@ This project leverages the pre-trained DistilHubert model from Hugging Face for 
 ### Massively Multilingual Speech (MMS) Model:
 We also leverage this model from Facebook AI to generate therapy recommendations. It allows the system to convert tailored therapy text into natural-sounding audio. You can find more information about it here:[https://huggingface.co/facebook/mms-tts-eng]
 
+
+### FUTURE PROSPECTS
+
+
+* Future Integration Plan: While the current system allows for independent use of the stutter detection model and the text-to-speech therapy recommendation model, our goal is to seamlessly integrate both models into a single application.
+* Personalized Therapy: Tailor therapy recommendations to individual preferences and needs would improve the system’s functionality.
+* Gathering More Data: Acquiring more diverse datasets for training is essential, considering the limited availability of annotated speech data online. Collaboration with hospitals and 
+   speech therapy centers would be helpful in gathering real and authentic data.
+* Accessibility and Scalability: Optimize resources and support multiple languages for broader user reach.
+* Collaboration with Healthcare Professionals: Partner with experts to validate effectiveness and ensure alignment with established speech therapy practices.
+
+
 ## Framework versions
 Transformers 4.40.1
 Pytorch 2.2.1+cu121
