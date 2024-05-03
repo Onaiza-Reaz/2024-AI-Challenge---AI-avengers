@@ -1,12 +1,14 @@
 # Stuttering Classification and Therapy System
-
-This project presents a machine learning system designed to classify stuttering and non-stuttering speech segments, along with a user-friendly interface for therapy recommendations.
+Our project is all about helping people who stutter. We've built a smart system that can tells the difference between stuttering and normal speech. Moreover, we've made it easy to get therapy tips based on what kind of stuttering you have. Our system offers a comprehensive approach to address this issue. 
 
 ## Project Overview
 
-This system addresses the challenge of automatic stuttering detection and personalized therapy guidance. It comprises the following key components:
+Here's a brief overview of the functionalities:
+Stuttering Detection: Utilizing cutting-edge speech analysis algorithms, our system accurately detects instances of stuttering in individuals' speech patterns.
+Classification into Main Types: Identified instances of stuttering are classified into main types such as prolongation, repetition, and blocks.
+Personalized Therapy Provision: For each identified type of stuttering, therapy resources in the form of audio recordings are provided.
 
-
+Lets have a detailed look on the project's pipeline:
 
 ## Data Preprocessing Pipeline:
 
