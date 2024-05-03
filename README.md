@@ -6,9 +6,15 @@ This project presents a machine learning system designed to classify stuttering 
 
 This system addresses the challenge of automatic stuttering detection and personalized therapy guidance. It comprises the following key components:
 
-Custom Stuttering Dataset: A meticulously curated dataset containing 815 audio samples categorized into four distinct folders representing different stuttering and non-stuttering speech types.
+
 
 ## Data Preprocessing Pipeline:
+
+### Custom Stuttering Dataset: 
+We created our won dataset manually which contains 815 audio samples categorized into four distinct folders representing different stuttering and non-stuttering speech types.
+
+### Creating dataset:
+Audios were mapped to a csv file containg two columns i.e audio file path and labels. The labels column contained the labels assigned to each type of audio. The audio file link column contains the drive file link of each audio.
 
 ### Sample Rate Adjustment: 
 Audio samples are converted to a uniform sampling rate of 16,000 Hz for model compatibility.
