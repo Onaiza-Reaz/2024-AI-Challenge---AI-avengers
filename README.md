@@ -4,9 +4,9 @@ Our project is all about helping people who stutter. We've built a smart system 
 ## Project Overview
 
 Here's a brief overview of the functionalities:
-Stuttering Detection: Utilizing cutting-edge speech analysis algorithms, our system accurately detects instances of stuttering in individuals' speech patterns.
-Classification into Main Types: Identified instances of stuttering are classified into main types such as prolongation, repetition, and blocks.
-Personalized Therapy Provision: For each identified type of stuttering, therapy resources in the form of audio recordings are provided.
+* Stuttering Detection: Utilizing cutting-edge speech analysis algorithms, our system accurately detects instances of stuttering in individuals' speech patterns.
+* Classification into Main Types: Identified instances of stuttering are classified into main types such as prolongation, repetition, and blocks.
+* Personalized Therapy Provision: For each identified type of stuttering, therapy resources in the form of audio recordings are provided.
 
 Lets have a detailed look on the project's pipeline:
 
